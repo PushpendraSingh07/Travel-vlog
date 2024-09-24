@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<travelAdventures xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                  xsi:schemaLocation="http://www.example.com/travelAdventures auto.xsd">
+
+    <destination>
+        <name>Hawamahal</name>
+        <country>Jaipur</country>
+        <description>Reviews: Known for its vibrant culture, majestic forts, and delicious cuisine.</description>
+
+</travelAdventures>
